@@ -1,1 +1,5 @@
 entorno_flask/*
+
+.env
+__pycache__
+node_modeules/
